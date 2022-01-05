@@ -1,0 +1,76 @@
+.returnButton {
+    margin-top: 17px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.details a {
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #FFFFFF;
+    padding: 5px 20px 5px 20px;
+    color: #343A40;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.details a:hover {
+    color: #AAAAAA;
+}
+
+.name {
+    color: #5B5B5B;
+    font-weight: bold;
+    text-align: center;
+    background-color: #FFFFFF;
+    box-shadow: rgba(0, 0, 0, 0.1) 0 1px 3px 0, rgba(0, 0, 0, 0.06) 0 1px 2px 0;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.capital {
+    text-align: center;
+    background-color: #FFFFFF;
+    box-shadow: rgba(0, 0, 0, 0.1) 0 1px 3px 0, rgba(0, 0, 0, 0.06) 0 1px 2px 0;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.details {
+    color: #343A40;
+    width: 549px;
+    margin: 25px auto 8px;
+}
+
+.population {
+    text-align: center;
+    background-color: #FFFFFF;
+    box-shadow: rgba(0, 0, 0, 0.1) 0 1px 3px 0, rgba(0, 0, 0, 0.06) 0 1px 2px 0;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.cca2 {
+    text-align: center;
+    background-color: #FFFFFF;
+    box-shadow: rgba(0, 0, 0, 0.1) 0 1px 3px 0, rgba(0, 0, 0, 0.06) 0 1px 2px 0;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.flag {
+    background-color: #FFFFFF;
+    box-shadow: rgba(0, 0, 0, 0.1) 0 1px 3px 0, rgba(0, 0, 0, 0.06) 0 1px 2px 0;
+    border-radius: 4px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flag img {
+    width: 30%;
+    border-radius: 5px;
+    border: 1px solid #AAAAAA;
+}

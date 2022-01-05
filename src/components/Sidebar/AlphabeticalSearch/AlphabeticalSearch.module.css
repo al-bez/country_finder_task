@@ -1,0 +1,31 @@
+.allButton {
+    background: none;
+    color: #343A40;
+    border: 1px solid #DDDDDD;
+    border-radius: 3px;
+    outline: inherit;
+    margin: 5px;
+    width: 150px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.allButton:hover {
+    color: #AAAAAA;
+}
+
+.button {
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    background: none;
+    color: #343A40;
+    border: 1px solid #DDDDDD;
+    border-radius: 3px;
+    outline: inherit;
+    cursor: pointer;
+}
+
+.button:hover {
+    color: #AAAAAA;
+}
